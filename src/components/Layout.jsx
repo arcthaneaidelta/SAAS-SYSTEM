@@ -88,11 +88,11 @@ export default function Layout() {
             </button>
             <div className="flex items-center space-x-3 border-l border-white/10 pl-6 cursor-pointer">
               <div className="text-right hidden md:block">
-                <p className="text-sm font-medium">Alex Morgan</p>
+                <p className="text-sm font-medium">Javier</p>
                 <p className="text-xs text-secondary">Owner</p>
               </div>
               <div className="w-10 h-10 rounded-full bg-accent2 text-white flex items-center justify-center font-bold shadow-md hover-lift">
-                AM
+                J
               </div>
             </div>
           </div>
